@@ -1,0 +1,3 @@
+Utilized VBA to automate the process of creating an optimized portfolio with 'n' number of assets using the SOLVER addin in Excel and charting it along with user-chosen number of randomized sub-optimal portfolios.
+Used Sharpe Ratio as an indicator of portfolio performance along with looking at the standard deviation as a proxy for risk. Also charted the Global Minimum Variance Portfolio (GMV) to understand which portfolio carried the least risk.
+The user can also choose to either short sell their assets or turn off that feature if they do not want to short sell. This changes the portfolio composition along with perceived risk and return.
