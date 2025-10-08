@@ -1,3 +1,5 @@
+# Portfolio Optimization (Excel VBA)
+
 Utilized VBA to automate the process of creating an optimized portfolio with 'n' number of assets using the SOLVER addin in Excel and charting it along with user-chosen number of randomized sub-optimal portfolios.
 
 Used Sharpe Ratio as an indicator of portfolio performance along with looking at the standard deviation as a proxy for risk. Also charted the Global Minimum Variance Portfolio (GMV) to understand which portfolio carried the least risk.
